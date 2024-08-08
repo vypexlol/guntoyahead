@@ -29,3 +29,5 @@ wins
 bestcontent
 leaktok
 ozzyfr
+primesociety
+secretleaks
